@@ -44,7 +44,7 @@ In development mode, you might add this line to `config/environments/development
 
     Paperclip.options[:command_path] = "/usr/local/bin/"
 
-If you're on Mac OS X, you'll want to run the following with Homebrew:
+If you're on Mac OS X, yu'll want to run the following with Homebrew:
 
     brew install imagemagick
 
